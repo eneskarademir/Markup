@@ -1,1 +1,1 @@
-import './less/bundle.less';
+import './less/main.less';

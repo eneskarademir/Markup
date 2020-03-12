@@ -40,7 +40,7 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             filename: 'about.html',
-            template: 'template/about.pug',
+            template: 'template/about.handlebars',
             inject: false,
             minify:false
         }),
